@@ -9,4 +9,4 @@ When you run the code on your preferred **IDE**, it will ask you a couple questi
 Depending on your score, the **consoleApp** will give you some specific messages depending on your results, so better try to answer correctly as many questions as possible.
 
 ## CURRENT STATE
-At the moment, the **correcttAnswerApp** is just a console application that can be useful to solve a very quick questionary, the code is not complex, is made in the most simple way, the code eventually will be improved
+At the moment, the **correcttAnswerApp** is just a console application that can be useful to solve a very quick questionary, the code is not complex, is made in the most simple way, the code might be improved eventually.
