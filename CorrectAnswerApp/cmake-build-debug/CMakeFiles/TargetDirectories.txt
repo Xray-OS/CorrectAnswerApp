@@ -1,0 +1,3 @@
+/home/angel/Documents/Programming/GitHub Projects/C++/CorrectAnswerApp/cmake-build-debug/CMakeFiles/CorrectAnswerApp.dir
+/home/angel/Documents/Programming/GitHub Projects/C++/CorrectAnswerApp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/angel/Documents/Programming/GitHub Projects/C++/CorrectAnswerApp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
