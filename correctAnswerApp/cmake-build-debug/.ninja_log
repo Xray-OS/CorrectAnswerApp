@@ -1,0 +1,5 @@
+# ninja log v5
+427	545	1702955152070328587	correctAnswerApp	941f708f80a5948
+1	427	1702955151953669914	CMakeFiles/correctAnswerApp.dir/correctAnswerApp/Source.cpp.o	36a8bc71f946cf03
+1	340	1702955329084744448	CMakeFiles/correctAnswerApp.dir/correctAnswerApp/Source.cpp.o	5ad85eef03fa470e
+340	444	1702955329188081807	correctAnswerApp	941f708f80a5948
